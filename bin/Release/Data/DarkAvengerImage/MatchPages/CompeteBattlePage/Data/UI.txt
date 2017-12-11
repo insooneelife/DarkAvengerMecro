@@ -1,0 +1,6 @@
+ToMainFromCompeteBattle 1213 10 32 28
+StartCompeteBattle1 609 659 150 32
+StartCompeteBattle2 837 661 151 28
+StartCompeteBattle3 1072 658 144 29
+RewardCompeteBattle 92 512 46 40
+RewardRankingCompeteBattle 268 513 46 36

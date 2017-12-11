@@ -1,0 +1,6 @@
+StartFishing 1166 591 66 54
+StopFishing 49 635 30 29
+GetList 146 640 39 34
+DefaultBait 1194 243 50 52
+NormalBait 1189 328 58 57
+HighBait 1193 418 51 50

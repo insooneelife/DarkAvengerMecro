@@ -1,0 +1,2 @@
+ToMainPageFromGuild 1220 8 35 33
+Joystick 216 530 1 1

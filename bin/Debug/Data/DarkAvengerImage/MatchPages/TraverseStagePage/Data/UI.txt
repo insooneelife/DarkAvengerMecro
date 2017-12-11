@@ -1,0 +1,4 @@
+RepeatTraverse 311 651 100 32
+SequenceTraverse 590 651 107 28
+StartTraverse 857 653 132 26
+BackInTraverseStage 1226 10 26 32

@@ -1,0 +1,2 @@
+NoInRaidRestrictedPage 460 481 101 32
+YesInRaidRestrictedPage 722 483 114 33

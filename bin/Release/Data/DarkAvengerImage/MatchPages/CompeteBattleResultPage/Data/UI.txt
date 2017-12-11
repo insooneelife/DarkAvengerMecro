@@ -1,0 +1,2 @@
+ToMainFromCompeteBattleResult 462 663 98 25
+ToCompeteBattleFromResult 696 662 135 20

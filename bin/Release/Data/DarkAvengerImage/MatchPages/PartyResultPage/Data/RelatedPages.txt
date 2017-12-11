@@ -1,0 +1,4 @@
+MainPage
+PartyPage
+PartyRepeatAwardPage
+PartyRestrictedPage

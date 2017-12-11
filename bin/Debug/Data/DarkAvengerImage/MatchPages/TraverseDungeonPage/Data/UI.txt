@@ -1,0 +1,13 @@
+LeftInTraverse 33 331 19 55
+RightInTraverse 1228 327 23 65
+BackInTraverseDungeon 1219 10 31 30
+Stage1 144 205 52 45
+Stage2 176 352 49 44
+Stage3 297 463 48 38
+Stage4 431 362 55 43
+Stage5 556 245 49 42
+Stage6 735 267 50 43
+Stage7 740 409 48 43
+Stage8 891 438 51 40
+Stage9 1037 351 47 40
+Stage10 1025 212 77 44

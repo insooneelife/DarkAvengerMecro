@@ -1,0 +1,6 @@
+StartParty 1034 658 149 29
+PLevel4 869 100 86 56
+PLevel5 1007 98 82 67
+PLevel6 1149 100 79 59
+PartyAward 951 510 55 48
+BackInParty 1222 11 28 27

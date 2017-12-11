@@ -1,0 +1,9 @@
+RLevel3 870 96 77 66
+RLevel4 1021 104 63 49
+RLevel5 1149 101 80 54
+RaidDragLeft 712 104 69 47
+RaidDragRight 1185 99 62 50
+RaidAward 950 520 48 28
+StartRaid 1038 664 149 17
+BackInRaid 1221 11 30 29
+MoveBoss 603 330 22 48

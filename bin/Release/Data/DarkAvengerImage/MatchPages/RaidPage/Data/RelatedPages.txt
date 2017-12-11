@@ -1,0 +1,4 @@
+MainPage
+RaidRepeatAwardPage
+RaidRestrictedPage
+RaidResultPage

@@ -1,0 +1,2 @@
+YesInFishingFinishPage 737 485 94 27
+NoInFishingFinishPage 468 485 76 28

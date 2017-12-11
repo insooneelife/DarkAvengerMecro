@@ -1,0 +1,17 @@
+Weapon 60 141 54 80
+Armor 62 261 56 82
+Necklase 61 377 53 86
+Earring 60 496 52 75
+Decoration 65 620 46 71
+Helmet 539 143 47 79
+Cape 538 264 46 82
+Ring 537 380 49 77
+Charm 539 503 45 69
+Belt 539 619 45 77
+WeaponTab 694 81 68 21
+ArmorTab 812 81 70 21
+AccessoryTab 933 82 66 20
+BackInItemPage 1222 10 29 33
+ItemSlot1 280 666 28 25
+ItemSlot2 360 666 23 25
+ItemSlot3 439 666 23 25

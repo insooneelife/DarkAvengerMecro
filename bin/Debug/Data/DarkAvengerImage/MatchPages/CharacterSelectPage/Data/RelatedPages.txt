@@ -1,0 +1,8 @@
+LoginPage
+FacebookPage
+FacebookConfirmPage
+StartGamePage
+EventPage1
+EventPage2
+NotifyPage
+MainPage

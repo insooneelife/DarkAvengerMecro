@@ -1,0 +1,4 @@
+SelectKenneth 1103 173 73 23
+SelectBella 1110 272 55 24
+SelectHector 1110 370 64 26
+StartGameInSelectPage 1076 660 100 22

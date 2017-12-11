@@ -1,0 +1,4 @@
+LoginPage
+FacebookConfirmPage
+StartGamePage
+CharacterSelectPage

@@ -1,0 +1,8 @@
+MainPage
+TrialResultPage
+TrialSweepAwayPage
+TrialMansFightPage
+TrialWomansFightPage
+TrialTwoDevilPage
+TrialStormEyePage
+TrialBloodyPage

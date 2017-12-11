@@ -1,0 +1,14 @@
+RLevel2 715 91 108 73
+RLevel3 858 94 94 76
+RLevel4 1009 99 84 70
+RLevel5 1143 96 95 68
+RaidDragLeftPos 632 104 69 47
+RaidDragRightPos 1185 99 62 50
+RaidAward 950 520 48 28
+StartRaid 1038 664 149 17
+BackInRaid 1221 11 30 29
+MoveBoss 603 330 22 48
+Grovise 163 640 57 55
+Demian 263 640 57 57
+Caligo 367 641 51 50
+Legina 467 643 56 53

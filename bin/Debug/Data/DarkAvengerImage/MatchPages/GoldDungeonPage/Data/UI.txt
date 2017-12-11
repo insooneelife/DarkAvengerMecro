@@ -1,0 +1,4 @@
+GLevel5 1200 601 23 37
+GoldDragLeftPos 155 375 33 24
+GoldDragRightPos 1038 367 22 18
+BackInGoldDungeon 1225 13 27 32

@@ -1,0 +1,2 @@
+ToCompeteBattle 150 238 154 255
+ToPersonalBattle 417 225 148 274

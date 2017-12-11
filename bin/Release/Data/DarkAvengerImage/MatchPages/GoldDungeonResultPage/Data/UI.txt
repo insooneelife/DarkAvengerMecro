@@ -1,0 +1,2 @@
+ToMainFromGoldResult 461 662 105 27
+ToGoldFromGoldResult 717 664 111 27

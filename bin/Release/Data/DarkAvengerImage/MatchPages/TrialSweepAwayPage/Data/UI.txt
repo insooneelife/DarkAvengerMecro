@@ -1,0 +1,8 @@
+BackInTrialLevelPages 1216 8 37 30
+TrialStartLevelFirstFromRight 1047 637 133 37
+TrialStartLevelSecondFromRight 755 639 123 27
+TrialStartLevelThirdFromRight 471 641 122 27
+TrialStartLevelFourthFromRight 187 639 101 29
+TrialStartLevel1 883 639 97 29
+TrialStartLevel2 592 640 99 26
+TrialStartLevel3 306 640 92 26

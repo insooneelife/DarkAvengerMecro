@@ -1,0 +1,5 @@
+MenuPage
+CoworkPage
+FightPage
+TraversePage
+TrialPage

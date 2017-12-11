@@ -1,0 +1,2 @@
+KeepGoingInStopPage 703 295 80 110
+OutFromInGamePage 486 280 97 136

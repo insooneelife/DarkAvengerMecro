@@ -1,0 +1,10 @@
+MenuToCharacter 88 179 35 36
+MenuToItem 105 288 35 38
+MenuToForge 505 233 42 44
+MenuToQuest 1156 182 36 33
+MenuToBonus 1135 286 40 34
+MenuToAris 1161 510 37 28
+MenuToWeekQuest 919 186 39 32
+MenuToDayQuest 998 185 39 37
+MenuToGuild 730 450 34 36
+BackInMenu 1207 69 32 31

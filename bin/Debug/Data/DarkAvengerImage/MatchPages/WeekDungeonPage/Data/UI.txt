@@ -1,0 +1,4 @@
+WLevel5 1200 601 23 37
+WeekDragLeftPos 155 375 33 24
+WeekDragRightPos 1038 367 22 18
+BackInWeekDungeon 1225 13 27 32

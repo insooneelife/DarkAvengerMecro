@@ -1,0 +1,2 @@
+NoInTraverseRestrictedPage 457 484 91 30
+YesInTraverseRestrictedPage 714 484 136 32

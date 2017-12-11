@@ -1,0 +1,2 @@
+ToMainPageFromFishing 1220 8 35 33
+GoToFishing 1113 526 81 55

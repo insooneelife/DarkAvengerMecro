@@ -1,0 +1,2 @@
+NoInPartyRestrictedPage 459 486 108 27
+YesInPartyRestrictedPage 726 487 110 31

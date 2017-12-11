@@ -1,0 +1,4 @@
+TraverseDungeon 352 216 186 281
+GoldDungeon 624 215 165 248
+WeekDungeon 897 224 160 242
+InfiniteDungeon 1168 233 49 204

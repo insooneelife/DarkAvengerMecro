@@ -1,0 +1,3 @@
+ToCompeteBattle 150 238 154 255
+ToPersonalBattle 417 225 148 274
+OutFromFightPage 1212 91 23 21

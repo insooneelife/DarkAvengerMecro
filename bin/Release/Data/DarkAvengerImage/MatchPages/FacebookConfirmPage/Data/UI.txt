@@ -1,0 +1,2 @@
+YesInFacebook 577 498 143 36
+NoInFacebook 592 595 111 31
