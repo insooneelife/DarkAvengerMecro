@@ -9,8 +9,8 @@ namespace SamplesCS.Jobs
 	public class JobRestartEmulator : JobSequence
 	{
 	
-		private string _email = "insooneelife@nate.com";
-		private string _password = "dlstns4877";
+		private string _email = "xxxxx@xxxxx.com";
+		private string _password = "xxxxxxxx";
 
 		public JobRestartEmulator(MainForm form)
 			:
